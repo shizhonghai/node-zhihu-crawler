@@ -16,7 +16,7 @@
 
 ```
 git clone https://github.com/shizhonghai/node-zhihu-crawler.git
-cd node-small-crawler && npm install
+cd node-zhihu-crawler && npm install
 
 ```
 
