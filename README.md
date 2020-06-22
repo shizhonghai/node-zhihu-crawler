@@ -30,4 +30,6 @@ require('./crawler')({
 
 > npm run start, 接下来就可以从控制台看到不断地在下载图片了。
 
-参考资料来源：[](https://github.com/qianlongo/node-small-crawler)
+## 参考资料来源
+
+> [https://github.com/qianlongo/node-small-crawler](https://github.com/qianlongo/node-small-crawler)
